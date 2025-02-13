@@ -1,4 +1,35 @@
-## 👋 Salut, je m'appelle Jeovani Paxe  <br>💻 Computer Scientiste | Développeur Python | Futur Data Scientist <br><br>📊 Étudiant en Statistiques et Machine Learning  <br>🤖 Passionné par l'Électronique et l'Automatisation  <br><br>Je suis un développeur spécialisé en Python, explorant ses applications en science des données, machine learning et automatisation. Mon objectif est de créer des solutions intelligentes pour résoudre des problèmes concrets de manière efficace.  <br><br>🔹 Compétences : Python, Statistiques, Machine Learning, Électronique, HTML, CSS, JavaScript , Bases de Données  <br>🔹 Centres d'intérêt : Intelligence Artificielle, Traitement des Données, Entrepreneuriat Technologique  <br>🔹 Projets en cours : Analyses statistiques, Modèles de Machine Learning et Automatisation de Processus  <br><br>📌 Toujours à la recherche de nouvelles connaissances et de défis pour améliorer mes compétences et innover. Construisons ensemble l’avenir ! 🚀  <br>
+## 👋 Salut, je m'appelle Jeovani Paxe  
+### 💻 Computer Scientist | Développeur Python | Futur Data Scientist  
+
+---
+
+📊 **Étudiant en Statistiques et Machine Learning**  
+🤖 **Passionné par l'Électronique et l'Automatisation**  
+
+Je suis un développeur spécialisé en **Python**, explorant ses applications en science des données, machine learning et automatisation.  
+Mon objectif est de créer des solutions intelligentes pour résoudre des problèmes concrets de manière efficace.  
+
+---
+
+### 🔹 Compétences  
+- Python, Statistiques, Machine Learning  
+- Électronique, HTML, CSS, JavaScript  
+- Bases de Données  
+
+### 🔹 Centres d'intérêt  
+- Intelligence Artificielle  
+- Traitement des Données  
+- Entrepreneuriat Technologique  
+
+### 🔹 Projets en cours  
+- Analyses statistiques  
+- Modèles de Machine Learning  
+- Automatisation de Processus  
+
+---
+
+📌 Toujours à la recherche de nouvelles connaissances et de défis pour améliorer mes compétences et innover.  
+**Construisons ensemble l’avenir ! 🚀**  
 
 
 ## 🌐 Socials:
