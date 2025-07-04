@@ -1,4 +1,4 @@
-## 👋 Olá, me chamo Jeovani Paxe  
+## 👋 Olá, chamo-me Jeovani Paxe  
 ### 💻 Cientista da Computação | Desenvolvedor Python | Engenheiro de Dados Jr.
 
 ---
