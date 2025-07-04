@@ -1,35 +1,37 @@
-## 👋 Salut, je m'appelle Jeovani Paxe  
-### 💻 Computer Scientist | Développeur Python | Futur Data Scientist  
+## 👋 Olá, me chamo Jeovani Paxe  
+### 💻 Cientista da Computação | Desenvolvedor Python | Engenheiro de Dados Jr.
 
 ---
 
-📊 **Étudiant en Statistiques et Machine Learning**  
-🤖 **Passionné par l'Électronique et l'Automatisation**  
+🔧 **Estudante de Engenharia de Dados e Sistemas de Informação**  
+⚙️ **Apaixonado por Eletrônica, Automação e Tecnologia**  
 
-Je suis un développeur spécialisé en **Python**, explorant ses applications en science des données, machine learning et automatisation.  
-Mon objectif est de créer des solutions intelligentes pour résoudre des problèmes concrets de manière efficace.  
-
----
-
-### 🔹 Compétences  
-- Python, Statistiques, Machine Learning  
-- Électronique, HTML, CSS, JavaScript  
-- Bases de Données  
-
-### 🔹 Centres d'intérêt  
-- Intelligence Artificielle  
-- Traitement des Données  
-- Entrepreneuriat Technologique  
-
-### 🔹 Projets en cours  
-- Analyses statistiques  
-- Modèles de Machine Learning  
-- Automatisation de Processus  
+Sou um desenvolvedor com foco em **Python**, explorando suas aplicações em automação, integração de sistemas e manipulação de dados.  
+Meu objetivo é construir soluções eficientes para problemas do mundo real, com base em fundamentos sólidos de tecnologia.
 
 ---
 
-📌 Toujours à la recherche de nouvelles connaissances et de défis pour améliorer mes compétences et innover.  
-**Construisons ensemble l’avenir ! 🚀**  
+### 🔹 Competências  
+- Python, SQL, Engenharia de Dados  
+- HTML, CSS, JavaScript  
+- Sensores e Eletrônica Básica  
+- Banco de Dados (relacionais e não relacionais)  
+
+### 🔹 Interesses  
+- Arquitetura de Dados  
+- Integração de Sistemas  
+- Automação de Processos  
+- Empreendedorismo em Tecnologia  
+
+### 🔹 Projetos em andamento  
+- Organização e transformação de dados com Python e SQL  
+- Projetos com sensores e microcontroladores  
+- Automatização de tarefas e rotinas usando scripts  
+
+---
+
+📌 Estou sempre em busca de aprender mais, enfrentar novos desafios e colaborar em projetos inovadores.  
+**Vamos construir o futuro com tecnologia! 🚀**
 
 
 ## 🌐 Socials:
